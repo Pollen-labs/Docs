@@ -7,9 +7,7 @@ post_excerpt: This is a post excerpt
 featured_image: 
 taxonomy:
     category:
-       
-    post_tag:
-       
+ post_tag:      
 custom_fields:
    
 ---
