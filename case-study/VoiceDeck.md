@@ -52,7 +52,7 @@ The VoiceDeck MLP involved multiple components:
 
 - **Website:** Marketing website providing an overview of VoiceDeck and the platform
 - **VoiceDeck App:** The app allows supporters to donate to individual causes that have driven positive impact to local communities. The app is currently on Testnet and will migrate to Mainnet soon.
-- **Content Management System (CMS):** The impact reports from partner organizations are stored in the CMS with additional data fields to categorize the reports in the app. There are currently 27 impact reports that have been uploaded onto the CMS and minted as Hypercerts.
+- **Content Management System (CMS):** The impact reports from partner organizations are stored in the Directus CMS with additional data fields to categorize the reports in the app. There are currently 27 impact reports that have been uploaded onto the CMS and minted as Hypercerts.
 - **Hypercerts:** The reports are minted into Hypercerts, a protocol that provides onchain representation of a piece of work and the associated impact from it. Supporters who donated to a specific report receive a fraction of its corresponding Hypercert as proof of support.
 - **Anon Aadhar:** This PSE-developed protocol allows Indian citizens to verify their identity on VoiceDeck in a privacy-preserving manner
 - **Safe Multisigs:** The team created multisig wallets to provide transparency and controls for donated funds that would eventually be sent to the partner organizations
