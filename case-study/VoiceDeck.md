@@ -14,7 +14,7 @@ taxonomy:
 
 ---
 
-## OVERVIEW
+### Overview
 
 VoiceDeck is a platform empowering citizen-led impact journalism through retroactive funding mechanisms. The project was founded by Devansh Mehta, a journalist who has been building VoiceDeck since 2018 and has extensive experience in journalism and media impact.
 
@@ -27,7 +27,7 @@ From November 2023 to March 2024, Pollen Labs worked closely with VoiceDeck to d
 
 
 
-## OBJECTIVE
+### Objective
 
 Prior to the collaboration, VoiceDeck was a promising project that had received grant funding, won hackathons, and had buy-in from partner reporting organizations. The team was seeking technical support to build out the concept into a ‘**Minimum Lovable Product**’ (MLP). 
 
@@ -35,7 +35,7 @@ Prior to the collaboration, VoiceDeck was a promising project that had received 
 Pollen Labs identified VoiceDeck as an ideal fellow to partner with based on the founder’s subject matter expertise, the project’s focus on building in the public goods space, and the potential to integrate PSE tooling.
 
 
-## APPROACH
+### Approach
 
 Pollen Labs and Voicedeck collaborated to design a multifaceted approach that balanced resource allocation, synchronous and async communication, and leveraged expertise from internal and external partners.
 
@@ -46,7 +46,7 @@ Communication and collaboration involved recurring weekly calls, and async commu
 The team set milestones and goals for to track progress and to keep participants accountable. Feedback and app testing were done in a collaborative and iterative manner, with each team member contributing to the process.
 
 
-## IMPLEMENTATION
+### Implmentation
 
 The VoiceDeck MLP involved multiple components:
 
@@ -59,7 +59,7 @@ The VoiceDeck MLP involved multiple components:
 
 ![VoiceDeck Implementation](/_images/VD-implmentation.png)
 
-## IMPACT & INSIGHTS
+### Impacts & Insights
 
 Through this partnership, Pollen Labs and VoiceDeck successfully built and shipped the VoiceDeck app in a 4-month timeframe. The app was also an early use case for Hypercerts, providing valuable feedback to their team regarding functionality. The team also gained additional insights into how the Pollen Labs supports builders:
 
@@ -75,7 +75,7 @@ The Ethereum Foundation and PSE network and resource capabilities are vast, whic
 
 By aligning the goals of VoiceDeck with the capabilities of PSE, the team integrated tooling that enhanced the platform's functionality and impact, especially in the public goods space.
 
-## WHERE IS VOICEDECK TODAY?
+### Where is VoiceDeck today?
 
 As of May 2024, the VoiceDeck team continues to push forward with their mission to provide a platform for decentralized outcome funding for citizens and their local communities. Since the conclusion of the Pollen Labs partnership, Devansh and his team have focused on the following areas:
 
@@ -87,11 +87,11 @@ As of May 2024, the VoiceDeck team continues to push forward with their mission 
 - **Migrating to Mainnet:** The VoiceDeck app is expected to migrate to Mainnet around Oct 2024
 
 
-## CONTRIBUTORS
+## Contributors
 - Devansh Mehta, Founder
-- Siddique Patel, Product
+- Siddique Patel, Product LLM
 - Filipa Ribeiro, Design
-- Beyondr, Design + Engineering
+- Beyondr, Design + Frontend Engineering
 - Chiali, Design + Product
 - CJ Rose, Frontend Engineering
 - Daehyun, Backend Engineering + Devop
