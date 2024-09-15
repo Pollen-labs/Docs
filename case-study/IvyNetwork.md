@@ -147,3 +147,9 @@ Our exploration with Ivy Network highlighted the complexities and opportunities 
 
 ![Ivy Network Header](/_images/Ivy%20network%20[Oregano]-v0.1.png)
 *UX flow for v0.1 which we didn't start*
+
+
+## Contributors
+- Beyondr, Design + Frontend Engineering
+- Chiali, Design + Product
+- Thomas, User research, Operations + Marketing
