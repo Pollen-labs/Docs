@@ -1,6 +1,6 @@
 ---
 
-title: Daisy: A Privacy-Preserving Platform for Information Transparency in Journalism
+title: Daisy, A Privacy-Preserving Platform for Information Transparency in Journalism
 menu_order: 4
 post_status: publish
 post_excerpt: Daisy is an experimental initiative focused on resolving the complexities involved in sharing sensitive information among multiple user groups. Our goal is to empower individuals and journalists to engage in a secure and efficient chain of communication, ultimately fostering a more transparent and trustworthy information ecosystem.
