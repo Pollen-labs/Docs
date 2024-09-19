@@ -1,6 +1,6 @@
 ---
 
-title: Nightjar: Empowering Workers’ Rights with Anonymity.
+title: Nightjar, empowering workers’ rights with anonymity.
 menu_order: 5
 post_status: publish
 post_excerpt: Nightjar is a zero-knowledge solution built for social movements that dare to challenge the status quo, despite facing opposition from powerful entities.
@@ -12,8 +12,6 @@ taxonomy:
     - UniRep
     - Privacy
     - Social movement
-
-
 ---
 
 ## Intro
