@@ -68,32 +68,25 @@ We reached out to 25+ organizations involved in union movements, though response
 ## Common Themes and Insights
 
 - **Employer and Organizational Resistance:**
-    
-    Organizing efforts often face strong opposition from both employers and traditional unions, making change difficult.
+Organizing efforts often face strong opposition from both employers and traditional unions, making change difficult.
     
 - **Fragmented Communication Tools:**
-    
-    The use of multiple, non-integrated platforms creates inefficiencies and increases the workload. Both labor organizations and DAOs need more streamlined communication solutions.
+The use of multiple, non-integrated platforms creates inefficiencies and increases the workload. Both labor organizations and DAOs need more streamlined communication solutions.
     
 - **Desire for Technological Integration:**
-    
-    There is a strong interest in platforms that combine communication, project management, and governance functionalities. Smart contracts and blockchain are seen as promising for ensuring transparency and accountability.
+There is a strong interest in platforms that combine communication, project management, and governance functionalities. Smart contracts and blockchain are seen as promising for ensuring transparency and accountability.
     
 - **Balancing Anonymity and Trust:**
-    
-    While anonymity is respected, many movements depend on trust, often requiring individuals to reveal their identities. Personal interactions remain essential for building that trust.
+ While anonymity is respected, many movements depend on trust, often requiring individuals to reveal their identities. Personal interactions remain essential for building that trust.
     
 - **Compensation Challenges:**
-    
-    Current compensation models, whether in traditional unions or DAOs, often fail to reflect contributors’ efforts accurately, leading to dissatisfaction.
+Current compensation models, whether in traditional unions or DAOs, often fail to reflect contributors’ efforts accurately, leading to dissatisfaction.
     
 - **Community Engagement and Non-Financial Fulfillment:**
-    
-    Emotional and communal fulfillment are key motivators for participation, with people finding value in being part of a collective that shares their ideals.
+ Emotional and communal fulfillment are key motivators for participation, with people finding value in being part of a collective that shares their ideals.
     
 - **Resistance to Change:**
-    
-    Larger, more established organizations are often resistant to new tools and technologies, while grassroots movements are more open to innovation.
+ Larger, more established organizations are often resistant to new tools and technologies, while grassroots movements are more open to innovation.
 
 
 ![Assumptions](/_images/Nightjar-painpoints.png "Our workshop to outline their pain points")
